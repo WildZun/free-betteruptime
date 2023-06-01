@@ -8,7 +8,7 @@ This code allows you to receive your monitor status changes by SMS for free!
 - Have activated the option mentioned above and have your login and password (Explanation on the option page).
 - Have a BetterUptime account and the IDs of your monitors
 
-##Installation
+## Installation
 Dependencies are already installed by default with Python.
 
 In your .env file, you will need to put:
