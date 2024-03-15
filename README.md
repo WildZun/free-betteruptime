@@ -1,6 +1,6 @@
 # BetterUptime to free alerts
 
-This code allows you to receive your monitor status changes by SMS for free!
+This code allows you to receive your monitor status changes by SMS for free mobile!
 
 ## Prerequisites
 
